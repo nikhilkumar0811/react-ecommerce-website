@@ -60,7 +60,7 @@ const AboutPage = () => {
                 height={160}
               />
               <div className="card-body">
-                <h5 className="card-title text-center">Jewelery</h5>
+                <h5 className="card-title text-center">Ethnic Wear</h5>
               </div>
             </div>
           </div>
@@ -73,7 +73,7 @@ const AboutPage = () => {
                 height={160}
               />
               <div className="card-body">
-                <h5 className="card-title text-center">Electronics</h5>
+                <h5 className="card-title text-center">Formals</h5>
               </div>
             </div>
           </div>
